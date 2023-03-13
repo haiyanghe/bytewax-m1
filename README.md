@@ -1,4 +1,4 @@
 ```
 docker build -t bytewax-m1 .
-docker run
+docker run bytewax-m1
 ```
